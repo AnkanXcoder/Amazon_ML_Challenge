@@ -1,1 +1,16 @@
+# Amazon ML Challenge dataset
 6ab10eb3b23ba_student_resource.zip
+student_resource/dataset/
+
+# macOS metadata
+__MACOSX/
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
