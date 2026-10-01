@@ -209,26 +209,9 @@ Entity resolution is useful in areas such as:
 
 ## 👨‍💻 Author
 
-### Ankan Sen
+### Ankan Sen & Runtime Error Team's
 
-**B.Tech Computer Science & Engineering Student**
-
-Interested in:
-
-- 📊 Data Science
-- 🤖 Machine Learning
-- 📈 Data Analytics
-- 🐍 Python
-- 🗄️ SQL
-
-<p align="center">
-  <a href="https://github.com/AnkanXcoder">
-    <img src="https://img.shields.io/badge/GitHub-AnkanXcoder-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/ankan-sen-2725b9325">
-    <img src="https://img.shields.io/badge/LinkedIn-Ankan%20Sen-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
+**B.Tech Computer Science & Engineering Students**
 
 ---
 
